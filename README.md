@@ -85,4 +85,4 @@ Sova is a sophisticated algorithmic trading platform that makes advanced trading
 
 ## Contact
 
-For inquiries, please contact me at work.meyank24@gmail.com or through my [GitHub profile](https://github.com/meyanksingh). 
+For inquiries, please contact me at work.meyank24@gmail.com or through my [GitHub profile](https://github.com/meyank-ssh). 
